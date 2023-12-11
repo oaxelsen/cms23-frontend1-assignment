@@ -1,0 +1,21 @@
+.contact-div {
+    display: flex;
+    flex-direction: column;
+
+    margin-top: 3em;
+    padding: 2em;
+    margin-bottom: 3em;
+
+
+    width: 90%;
+    border-radius: 1em;
+
+    background-color: #313131;
+    color: #e1e1e1;
+}
+
+.text-div {
+    margin-top: 5em;
+    margin-bottom: 5em;
+}
+
